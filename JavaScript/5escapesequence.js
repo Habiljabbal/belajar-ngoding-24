@@ -1,0 +1,6 @@
+document.writeln("<textarea cols='100' rows='10'>")
+document.write("habil \njabbal \nfirdauysi\n")
+document.write("\/Home \/Habil \n")
+document.write("\"Belajar ngoding 24\" \n")
+document.write("\'belajar javascript\' \n")
+document.writeln("</textarea>")
